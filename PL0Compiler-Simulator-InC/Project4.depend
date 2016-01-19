@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1436931331 source:c:\school\cop3402\project3\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1436923096 source:c:\school\cop3402\project3\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1436931526 source:c:\school\cop3402\project3\vm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1436921568 source:c:\school\cop3402\project3\parcer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1436655880 c:\school\cop3402\project3\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1436754705 c:\school\cop3402\project3\lexer.h
+
+1437052346 source:c:\school\cop3402\project3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1437964062 source:c:\school\cop3402\project4\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1437965900 source:c:\school\cop3402\project4\scanner.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1438045938 source:c:\school\cop3402\project4\vm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1438021570 source:c:\school\cop3402\project4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

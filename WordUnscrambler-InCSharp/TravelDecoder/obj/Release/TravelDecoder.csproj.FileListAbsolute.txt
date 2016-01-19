@@ -1,0 +1,9 @@
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\bin\Release\TravelDecoder.exe.config
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\bin\Release\TravelDecoder.exe
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\bin\Release\TravelDecoder.pdb
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\obj\Release\TravelDecoder.Properties.Resources.resources
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\obj\Release\TravelDecoder.Form1.resources
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\obj\Release\TravelDecoder.csproj.GenerateResource.Cache
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\obj\Release\TravelDecoder.exe
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\obj\Release\TravelDecoder.pdb
+C:\Users\James\documents\visual studio 2013\Projects\TravelDecoder\TravelDecoder\obj\Release\TravelDecoder.csprojResolveAssemblyReference.cache
