@@ -1,3 +1,0 @@
-C:\Users\James\Documents\GitHub\SampleWork\WordUnscrambler\TravelDecoder\bin\Debug\TravelDecoder.exe.config
-C:\Users\James\Documents\GitHub\SampleWork\WordUnscrambler\TravelDecoder\obj\Debug\TravelDecoder.exe
-C:\Users\James\Documents\GitHub\SampleWork\WordUnscrambler\TravelDecoder\obj\Debug\TravelDecoder.pdb
