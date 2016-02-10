@@ -1,10 +1,5 @@
 #pragma once
-
-using std::cin;
-using std::cout;
-using std::endl;
-using std::string;
-using std::vector;
+#include "stdafx.h"
 
 enum blockSym {
 	empty = '.', blue = 'b', cyan = 'c', green = 'g', 
@@ -20,6 +15,7 @@ class GameBoard
 	char systable[256];
 	int score = 0;
 	int linesCleared = 0;
+    tetramino activeTetramino = tetramino();
 
 public:
 	GameBoard();
@@ -28,11 +24,15 @@ public:
 	char getValueAt(int row, int col);
 	void createBoard();
 	void clearBoard();
-	void printBoardState();
+    void printBoardState(bool printTetramino);
 	void getScore();
 	void calculateScore();
 	void getLinesCleared();
 	void setLinesCleared();
 	void step();
+    void setActiveTetramino(char tetramino);
+    void displayActiveTetramino();
+    void rotatePieceRight();
+    char getStuff(int row, int col, char current);
 };
 

@@ -15,7 +15,17 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <cctype>
+
+using std::cin;
+using std::cout;
+using std::endl;
+using std::string;
+using std::vector;
+
+#include "tetramino.h"
 #include "GameBoard.h"
+
 
 
 // TODO: reference additional headers your program requires here
