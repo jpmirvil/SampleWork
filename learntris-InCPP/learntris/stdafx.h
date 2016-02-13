@@ -9,7 +9,6 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
 #include <cstdio>
 #include <iostream>
 #include <fstream>
@@ -17,15 +16,5 @@
 #include <vector>
 #include <cctype>
 
-using std::cin;
-using std::cout;
-using std::endl;
-using std::string;
-using std::vector;
-
-#include "tetramino.h"
-#include "GameBoard.h"
-
-
-
-// TODO: reference additional headers your program requires here
+#include "Tetramino.h"
+#include "Game.h"
